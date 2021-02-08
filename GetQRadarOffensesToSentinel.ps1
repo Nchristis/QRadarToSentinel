@@ -1,5 +1,5 @@
 ﻿Write-Host "First we need some inputs"
-# QRADAR info (management ip and authorization token)
+# QRADAR info (management ip and authentication token)
 $consoleIP = $env:consoleIP
 $token = $env:token
 # Sentinel info (workspace id and workspace key)
